@@ -1,0 +1,27 @@
+{
+  "name": "address-book",
+  "version": "0.0.1",
+  "description": "this is an address book package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foofighter099/address-book-project.git"
+  },
+  "keywords": [
+    "address",
+    "book",
+    "contacts",
+    "email",
+    "organize",
+    "entry"
+  ],
+  "author": "Andrew <andrewtognarini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foofighter099/address-book-project/issues"
+  },
+  "homepage": "https://github.com/foofighter099/address-book-project#readme"
+}
